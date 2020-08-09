@@ -21,7 +21,7 @@ Languages and Frameworks:<br>
 ------------
 
 <p align="center">
-<samp>social networks <br>
+<samp>Social Networks <br>
 <code><a href="https://www.linkedin.com/in/rodriguesbarreto/"><img src="https://image.flaticon.com/icons/svg/179/179330.svg" width="22" /></a></code>
 <code><a href="https://twitter.com/b4rba88"><img src="https://image.flaticon.com/icons/svg/145/145812.svg" width="22" /></a></code>
 <code><a href="https://github.com/rodriguezbarreto"><img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="22" /></a></code>
