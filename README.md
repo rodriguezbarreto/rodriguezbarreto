@@ -2,7 +2,7 @@
 
 <p >
   <br>
-  <samp>Hello World. I'm <a href="https://danrodriguez.dev">Daniel</a>.<br> I'm a Software Engineer from Florianópolis-BR.<br>
+  <samp>Hello guys! <br> My name is Daniel and i'm a Software Engineer <br>from Florianópolis-BR.<br>
   <br>
 </p>
   
