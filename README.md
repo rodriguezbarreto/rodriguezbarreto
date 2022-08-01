@@ -1,7 +1,5 @@
 <p >
   <br>
-  <br>
-  <br>
   <samp>Hello World. I'm <a href="https://danrodriguez.dev">Daniel</a>.<br> I'm a Software Engineer from Florianópolis-BR.<br><br>
 
   <br>
